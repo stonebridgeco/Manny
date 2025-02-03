@@ -9,7 +9,7 @@ I will be tracking project timelines and roadmap with the Agent Workflows projec
 
 # Manny
 
-Manny is an AU that tells you answers to maintenance questions. The AI is trained with 1000s of manufacturer manuals and expert comments. 
+Manny is an AI that tells you answers to maintenance questions. The AI is trained with 1000s of manufacturer manuals and expert comments. 
 Ask a question about the instructions to any available appliance and Manny will tell you the answer and maybe give you a diagram. 
 
 # Web Application Framework
